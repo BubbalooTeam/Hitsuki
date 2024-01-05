@@ -1,5 +1,5 @@
 from pydantic import validator, AnyHttpUrl
-from pydantic-settings import BaseSettings
+from pydantic_settings import BaseSettings
 from typing import List, Optional
 
 
